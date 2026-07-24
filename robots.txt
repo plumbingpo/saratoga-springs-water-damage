@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saratogaspringsrestoration.com/sitemap.xml
